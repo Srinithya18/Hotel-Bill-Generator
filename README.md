@@ -1,4 +1,4 @@
-# SSD ASSIGNMENT -- Python
+# README
 
 > Steps to execute
 - Add the `Menu.csv` file to the directory containing `bill.py` 
